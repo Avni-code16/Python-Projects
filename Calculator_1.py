@@ -13,6 +13,7 @@ print("2. Subtract")
 print("3. Multiply")
 print("4. Divide")
 num1 = float(input("Enter the first number: "))
+if num1 is Value_Error
 num2 = float(input("Enter the second number: "))
 operation = int(input("Enter operation (1,2,3,4): "))
 if operation == 1:
